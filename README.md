@@ -4,7 +4,7 @@ A C-based framework for process injection within the **World of Warcraft** envir
 
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/1395bcd5-ea23-4ef5-ab8c-be42410071bc" width="80%" controls>
+  <video src="https://github.com/user-attachments/assets/1395bcd5-ea23-4ef5-ab8c-be42410071bc" width="100%" controls>
   </video>
 </p>
 *Note: Visual demonstrations were captured in a controlled environment for the purpose of validating system stability and latency under real-world conditions.*
