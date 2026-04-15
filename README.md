@@ -3,7 +3,7 @@
 A C-based framework for process injection within the **World of Warcraft** environment to deliver gameplay enhancements. Provided as a demonstration of **reverse engineering**, in-process hooking, real-world memory manipulation, **DirectX** overlay techniques, **Lua engine** hooking, **network packet** introspection, and cross-platform build engineering.
 
 <video width="640" height="480" controls>
-  <source src="https://github.com/seg3214/wow-lil-helper/assets/Proccess injection World of Warcraft Unit Info Boxes & Scripted Actions.mp4" type="video/mp4">
+  <source src="https://github.com/seg3214/wow-lil-helper/assets/video1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 *Note: Visual demonstrations were captured in a controlled environment for the purpose of validating system stability and latency under real-world conditions.*
