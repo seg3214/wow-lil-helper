@@ -1,0 +1,12 @@
+InlayHints:
+  BlockEnd: false
+  Designators: true
+  Enabled: true
+  ParameterNames: true
+  DeducedTypes: true
+  DefaultArguments: true
+Diagnostics:
+  UnusedIncludes: None
+CompileFlags:
+#  CompilationDatabase:build/obj
+#  Add: [--target=x86_64-w64-windows-gnu]

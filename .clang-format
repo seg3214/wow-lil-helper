@@ -1,0 +1,20 @@
+﻿---
+BasedOnStyle: Chromium
+IncludeBlocks: Preserve
+SortIncludes: 'false'
+ReflowComments: 'false'
+UseTab: Always
+IndentWidth: 8
+TabWidth: 8
+AlwaysBreakAfterReturnType: None
+AlignConsecutiveMacros: 'true'
+PenaltyBreakAssignment: '9999'
+PenaltyBreakBeforeFirstCallParameter: '9999'
+PenaltyBreakString: '9999'
+PenaltyBreakTemplateDeclaration: '9999'
+PenaltyReturnTypeOnItsOwnLine: '9999'
+PenaltyBreakComment: '9999'
+PointerAlignment: Left
+AlwaysBreakBeforeMultilineStrings: 'false'
+ColumnLimit: 509
+...
