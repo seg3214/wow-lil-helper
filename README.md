@@ -4,6 +4,7 @@ A C-based framework for process injection within the **World of Warcraft** envir
 
 
 <p align="center">
+<p><i>A quick demo of an injected DirectX overlay featuring player bounding boxes and single-key gameplay macros.</i></p>
   <video src="https://github.com/user-attachments/assets/1395bcd5-ea23-4ef5-ab8c-be42410071bc" width="100%" controls>
   </video>
 </p>
